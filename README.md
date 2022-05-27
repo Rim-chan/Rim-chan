@@ -8,4 +8,4 @@ I am a reasearch intern at the [International Water Management Institute](https:
 
 ------
 ![github stats](https://github-readme-stats.vercel.app/api?username=Rim-chan&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-chan&langs_count=3&hide=javascript,go,html,css,tex)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rim-chan&langs_count=3&hide=javascript,python,html,css,tex)
