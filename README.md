@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/Rim-chan?style=social)](https://github.com/Rim-chan?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/rim-sleimi)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rim-chan.Rim-chan)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1bCCPynz0xUY0YXeVntY_fUKU6oms2sXZ/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)]([https://drive.google.com/file/d/1bCCPynz0xUY0YXeVntY_fUKU6oms2sXZ/view?usp=sharing](https://rim-sleimi-digital-resume.streamlit.app/))
 
 I am a reasearch intern at the [International Water Management Institute](https://www.iwmi.cgiar.org/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, deep learning and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change. 
 
