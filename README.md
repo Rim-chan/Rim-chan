@@ -5,7 +5,7 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rim-chan.Rim-chan)
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://rim-sleimi-digital-resume.streamlit.app/)
 
-I am a reasearch intern at the [International Water Management Institute](https://www.iwmi.cgiar.org/). My research interests include Geographic Information Science (GIS), remote sensing, and environmental modeling. More specifically, I am interested in applying geospatial big data, machine learning, deep learning and cloud computing (e.g., [Google Earth Engine](https://earthengine.google.com/)) to study environmental change. 
+Passionate about the dynamic realm of Remote Sensing and Earth Observation, I'm an adept geosciences and machine learning engineer. With a keen interest in the fusion of deep learning and EO data analysis, as I seek to unveil valuable insights and patterns for various EO applications. 
 
 ------
 # 💻Tech Stack
